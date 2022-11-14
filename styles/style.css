@@ -1,0 +1,21 @@
+#seher{
+    color: yellow;
+    background-color: black;
+    width: 10%;
+    border-radius: 20px;
+    text-align: center;
+}
+#gunorta{
+    color: red;
+    background-color: blue;
+    width: 10%;
+    border-radius: 20px;
+    text-align: center;
+}
+#axsam{
+    color: black;
+    background-color: greenyellow;
+    width: 10%;
+    border-radius: 20px;
+    text-align: center;
+}
